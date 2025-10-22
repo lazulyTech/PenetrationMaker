@@ -1,0 +1,7 @@
+.pio
+.vscode
+*.code-workspace
+
+desktop.ini
+.DS_Store
+
